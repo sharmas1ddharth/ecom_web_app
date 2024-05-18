@@ -3,5 +3,5 @@ Django
 xhtml2pdf
 gunicorn
 psycopg2-binary
-
+django-widget-tweaks
 
